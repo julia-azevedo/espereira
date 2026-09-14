@@ -156,11 +156,10 @@ UniqueId=007b90f9-d61b-4092-ab23-45245f90be73
 Description=Prototype
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=3
 Variation1=Designator=R26|UniqueId=\YNJIHTUY|Kind=1|AlternatePart=
 Variation2=Designator=R25|UniqueId=\JELSZLNX|Kind=1|AlternatePart=
 Variation3=Designator=C17|UniqueId=\ZKALKWSI|Kind=1|AlternatePart=
-Variation4=Designator=R2|UniqueId=\RCEODODB|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
